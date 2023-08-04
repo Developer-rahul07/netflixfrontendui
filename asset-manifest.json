@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/netflixfrontendui/static/css/main.dfd9649c.css",
+    "main.js": "/netflixfrontendui/static/js/main.9fbd1871.js",
+    "static/media/frontback.jpg": "/netflixfrontendui/static/media/frontback.58eb0a0f06c2e3430a27.jpg",
+    "static/media/child.png": "/netflixfrontendui/static/media/child.17d95615abd75330ddf0.png",
+    "static/media/tv.jpg": "/netflixfrontendui/static/media/tv.da3ec8fa3effbb74f05a.jpg",
+    "static/media/mobile.jpg": "/netflixfrontendui/static/media/mobile.063578d5b6d5ab4155ec.jpg",
+    "index.html": "/netflixfrontendui/index.html",
+    "main.dfd9649c.css.map": "/netflixfrontendui/static/css/main.dfd9649c.css.map",
+    "main.9fbd1871.js.map": "/netflixfrontendui/static/js/main.9fbd1871.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd9649c.css",
+    "static/js/main.9fbd1871.js"
+  ]
+}
